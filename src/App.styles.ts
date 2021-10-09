@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div``;
 
@@ -11,7 +11,6 @@ export const Header = styled.div`
 export const HeaderText = styled.h1`
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     color: #FFF;
     padding-top: 30px;
 `;
